@@ -23,10 +23,11 @@ st.markdown(
     GPT를 활용한 포트폴리오입니다.
 
     - [X] [DocumentGPT](/DocumentGPT) : 문서의 내용에 대해 대화합니다.
-    - [] [PrivateGPT](/PrivateGPT) : 문서의 내용에 대해 대화합니다. (무료 버전)
+    - [X] [PrivateGPT](/PrivateGPT) : 문서의 내용에 대해 대화합니다. (무료 버전)
     - [X] [QuizGPT](/QuizGPT) : 문서 혹은 위키피디아를 통해 퀴즈를 냅니다.
-    - [] [SiteGPT](/SiteGPT) : 웹사이트의 내용에 대해 대화합니다.
-    - [] [MeetingGPT](/MeetingGPT) : 동영상 혹은 음원의 내용에 대해 대화합니다.
-    - [] [InvestorGPT](/InvestorGPT)
+    - [X] [SiteGPT](/SiteGPT) : 웹사이트의 내용에 대해 대화합니다.
+    - [X] [MeetingGPT](/MeetingGPT) : 동영상 혹은 음원의 내용에 대해 대화합니다.
+    - [X] [InvestorGPT](/InvestorGPT) : 주식 투자를 위한 조언을 제공합니다.
+    - [X] [ResearchGPT](/ResearchGPT) : 주제에 대한 조사를 수행합니다.
     """
 )
